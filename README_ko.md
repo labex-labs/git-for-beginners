@@ -15,32 +15,32 @@
 
 ## 연습
 
-|   인덱스 | 이름                                          | 난이도   | 연습                                                                                                                 |
-|----------|-----------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🆓 첫 번째 Git Lab                         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/git-your-first-git-lab-92739'>실습 시작</a>                   |
-|       02 | 🎯 🆓 Operation Quantum Leap (퀀텀 리프 작전) | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/git-operation-quantum-leap-387717'>도전 시작</a>              |
-|       03 | 📖 🆓 Git 설정 관리                           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/git-git-config-management-385164'>실습 시작</a>               |
-|       04 | 🎯 🆓 타임머신 신원 구성                      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/git-time-machine-identity-configuration-387720'>도전 시작</a> |
-|       05 | 📖 🆓 파일 및 스테이징 영역 작업              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/git-working-with-files-and-staging-area-387457'>실습 시작</a> |
-|       06 | 🎯 🆓 시간 여행자의 여행 가방                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/git-the-time-traveler-s-suitcase-387725'>도전 시작</a>        |
-|       07 | 📖 🆓 Git 브랜치 기본 작업                    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/git-git-branch-basic-operations-385163'>실습 시작</a>         |
-|       08 | 🎯  시간 여행자의 딜레마                      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/git-the-time-traveler-s-dilemma-387733'>도전 시작</a>         |
-|       09 | 📖  Git 고급 커밋 작업                        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/git-advanced-git-commit-operations-387471'>실습 시작</a>      |
-|       10 | 🎯  히스토리 재작성                           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/git-rewriting-history-387746'>도전 시작</a>                   |
-|       11 | 📖  작업 중인 내용 저장하기                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/git-saving-work-in-progress-387492'>실습 시작</a>             |
-|       12 | 🎯  시간 여행 개발자                          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/git-the-time-traveling-developer-387759'>도전 시작</a>        |
-|       13 | 📖  중요한 이정표 표시                        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/git-marking-important-milestones-387493'>실습 시작</a>        |
-|       14 | 🎯  프로젝트 히스토리 태깅                    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/git-tagging-your-project-s-history-387763'>도전 시작</a>      |
-|       15 | 📖  Git 히스토리 및 로그 관리                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/git-git-history-and-log-management-387490'>실습 시작</a>      |
-|       16 | 🎯  Git 시간 탐정                             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/git-git-time-detective-387782'>도전 시작</a>                  |
-|       17 | 📖  Git Diff 심층 분석                        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/git-git-diff-deep-dive-387489'>실습 시작</a>                  |
-|       18 | 🎯  비밀 코드 변경 사항 파헤치기              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/uncover-the-secret-code-changes-387768'>도전 시작</a>         |
-|       19 | 📖  Git Reset 및 Reflog                       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/git-git-reset-and-reflog-387491'>실습 시작</a>                |
-|       20 | 🎯  잃어버린 파일 복구                        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/git-recover-the-lost-files-387781'>도전 시작</a>              |
+|   인덱스 | 이름                                          | 난이도   | 연습                                                                                                                                     |
+|----------|-----------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 🧩 🆓 첫 번째 Git Lab                         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-your-first-git-lab-92739?course=git-for-beginners'>실습 시작</a>                   |
+|       02 | 🎯 🆓 Operation Quantum Leap (퀀텀 리프 작전) | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-operation-quantum-leap-387717?course=git-for-beginners'>도전 시작</a>              |
+|       03 | 🧩 🆓 Git 설정 관리                           | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-git-config-management-385164?course=git-for-beginners'>실습 시작</a>               |
+|       04 | 🎯 🆓 타임머신 신원 구성                      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-time-machine-identity-configuration-387720?course=git-for-beginners'>도전 시작</a> |
+|       05 | 🧩 🆓 파일 및 스테이징 영역 작업              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-working-with-files-and-staging-area-387457?course=git-for-beginners'>실습 시작</a> |
+|       06 | 🎯 🆓 시간 여행자의 여행 가방                 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-the-time-traveler-s-suitcase-387725?course=git-for-beginners'>도전 시작</a>        |
+|       07 | 🧩 🆓 Git 브랜치 기본 작업                    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-git-branch-basic-operations-385163?course=git-for-beginners'>실습 시작</a>         |
+|       08 | 🎯  시간 여행자의 딜레마                      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-the-time-traveler-s-dilemma-387733?course=git-for-beginners'>도전 시작</a>         |
+|       09 | 🧩  Git 고급 커밋 작업                        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-advanced-git-commit-operations-387471?course=git-for-beginners'>실습 시작</a>      |
+|       10 | 🎯  히스토리 재작성                           | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-rewriting-history-387746?course=git-for-beginners'>도전 시작</a>                   |
+|       11 | 🧩  작업 중인 내용 저장하기                   | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-saving-work-in-progress-387492?course=git-for-beginners'>실습 시작</a>             |
+|       12 | 🎯  시간 여행 개발자                          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-the-time-traveling-developer-387759?course=git-for-beginners'>도전 시작</a>        |
+|       13 | 🧩  중요한 이정표 표시                        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-marking-important-milestones-387493?course=git-for-beginners'>실습 시작</a>        |
+|       14 | 🎯  프로젝트 히스토리 태깅                    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-tagging-your-project-s-history-387763?course=git-for-beginners'>도전 시작</a>      |
+|       15 | 🧩  Git 히스토리 및 로그 관리                 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-git-history-and-log-management-387490?course=git-for-beginners'>실습 시작</a>      |
+|       16 | 🎯  Git 시간 탐정                             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-git-time-detective-387782?course=git-for-beginners'>도전 시작</a>                  |
+|       17 | 🧩  Git Diff 심층 분석                        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-git-diff-deep-dive-387489?course=git-for-beginners'>실습 시작</a>                  |
+|       18 | 🎯  비밀 코드 변경 사항 파헤치기              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/uncover-the-secret-code-changes-387768?course=git-for-beginners'>도전 시작</a>         |
+|       19 | 🧩  Git Reset 및 Reflog                       | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-git-reset-and-reflog-387491?course=git-for-beginners'>실습 시작</a>                |
+|       20 | 🎯  잃어버린 파일 복구                        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-recover-the-lost-files-387781?course=git-for-beginners'>도전 시작</a>              |
 
 ## LabEx 소개
 
-LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, LabEx 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
+[LabEx](https://labex.io) 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, [LabEx](https://labex.io) 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
 
 ## 더 보기
 
